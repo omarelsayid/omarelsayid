@@ -27,7 +27,11 @@ I am a Flutter Developer with a strong passion for creating beautiful, functiona
 - Volunteer at IEEE Alex Computer Society  
 
 ---
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarelsayid&show_icons=true&theme=tokyonight&count_private=true)
+ ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarelsayid&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelsayid&layout=compact&theme=radical)
+
 ---
 ## 🌐 Language Skills  
 - Arabic: Native  
