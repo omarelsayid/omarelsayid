@@ -1,9 +1,39 @@
-<h3 align="center">I am a Flutter Developer with a strong passion for creating beautiful, functional, and user-friendly mobile applications. I specialize in building cross-platform apps for Android and iOS using Flutter and Dart.</h3>
+# 👋 Hi there, I'm Omar Elsayed  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar el-sayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar el-sayd" height="30" width="40" /></a>
-</p>
+I am a Flutter Developer with a strong passion for creating beautiful, functional, and user-friendly mobile applications. I specialize in building cross-platform apps for Android and iOS using Flutter and Dart.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+
+## 📫 Contact Information  
+- Email: [omarelsayd445@gmail.com](mailto:omarelsayd445@gmail.com)  
+- LinkedIn: [omar elsayed](https://www.linkedin.com/in/omar-el-sayd-9a4a41271/)  
+- GitHub: [omar elsayed](https://github.com/omarelsaid)  
+
+---
+
+## 🚀 Skills  
+- Languages: Dart, Java, JS  
+- Mobile Development: Flutter, Firebase, REST APIs,SupaBase  
+- State Management: Bloc, Provider,Riverpod  
+- Databases: SQLite, Hive, Shared Preferences  
+- Tools: Git, VS Code, Android Studio,Trello
+-   Architecture: MVVM ,clean architecture ,MVC 
+
+
+---
+
+## 🤝 Volunteering & Training  
+- Training: Completed a Flutter training program at mentor academy , where I gained hands-on experience in building mobile applications using Flutter and Dart.  
+- Volunteer at IEEE Alex Computer Society  
+
+---
+
+
+## 🌐 Language Skills  
+- Arabic: Native  
+- English: Advanced  
+
+---
+
+### 😊 Thanks for visiting my profile!  
+Feel free to connect with me via LinkedIn or check out my projects on GitHub. If you like my work, don't forget to ⭐ the repositories!
