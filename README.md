@@ -39,9 +39,9 @@ I am a Flutter Developer with a strong passion for creating beautiful, functiona
 
 ## 📊 GitHub Stats  
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarelsaid&show_icons=true&theme=tokyonight&count_private=true)  
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarelsayid&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelsaid&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelsayid&layout=compact&theme=radical)  
 
 ---
 
