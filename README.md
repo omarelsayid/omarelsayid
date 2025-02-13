@@ -18,7 +18,7 @@ I am a Flutter Developer with a strong passion for creating beautiful, functiona
 ## 🚀 Skills  
 
 ### **Languages & Frameworks**  
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
