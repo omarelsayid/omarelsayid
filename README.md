@@ -3,7 +3,7 @@
 I am a Flutter Developer with a strong passion for creating beautiful, functional, and user-friendly mobile applications. I specialize in building cross-platform apps for Android and iOS using Flutter and Dart.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Developer;Passionate+about+UI%2FUX" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&width=435&lines=Flutter+Developer" alt="Typing Animation" />
 </p>
 
 ---
